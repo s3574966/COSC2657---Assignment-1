@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pu_login"
+        android:title="@string/login" />
+    <item
+        android:id="@+id/pu_register"
+        android:title="@string/register" />
+    <item
+        android:id="@+id/pu_colortesting"
+        android:title="@string/color_testing"
+        android:visible="false" />
+</menu>
